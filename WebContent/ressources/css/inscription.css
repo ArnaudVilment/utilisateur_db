@@ -1,0 +1,72 @@
+h1 {
+	text-align: center;
+}
+form{
+
+    width: 210px;
+
+    margin: auto;
+
+    color: #997a79
+
+}
+
+.dim_block2{
+
+    width: 180px;
+
+    background: #ffe8e6;
+
+    color:#ff9e9d;
+
+    border-radius: 5px;
+
+}
+
+.dim_block3{
+
+    width: 180px;
+
+    height: 80px;
+
+    border-left: #ffdbd6;
+
+    background: #ffe8e6;
+
+    border-radius: 5px;
+
+}
+
+.dim_block4{
+
+    width: 100px;
+
+    margin-left: 3px;
+
+    border-radius: 5px;
+
+}
+
+label{
+
+    color: black;
+
+}
+
+fieldset{
+
+    color: #d12229;
+
+    border-color: #ffe8e6;
+
+}
+
+#colorBlock{
+
+    background: #ffe8e6;
+
+    color: #997a79;
+
+    mask-border-mode: inherit;
+
+}
